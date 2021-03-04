@@ -13,7 +13,7 @@ function Footer() {
                     850-778-6799
                 </h1>
             </div>
-            <div className='body-btns'>
+            {/* <div className='body-btns'>
                 <Button
                 className='btns'
                 buttonStyle='btn--outline'
@@ -21,7 +21,7 @@ function Footer() {
                 >
                 CLICK HERE TO SCHEDULE AN APPOINTMENT
                 </Button>
-            </div>
+            </div> */}
             </section>
             <div className="footer-links">
                 <div className="footer-link-wrapper">
@@ -31,15 +31,14 @@ function Footer() {
                         <Link to='/About'>About Us</Link>
                         <Link to='/Services'>Services / Rates</Link>
                         <Link to='/BeforeAfter'>Before / After</Link>
-                        <Link to='/Login'>Login</Link>
+                        {/* <Link to='/Login'>Login</Link> */}
                     </div>
                 </div>
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">
                         <h2>Social Media</h2>
-                        <Link to='/Instagram'>Instagram</Link>
-                        <Link to='/Facebook'>Facebook</Link>
-                        <Link to='/Twitter'>Twitter</Link>
+                        <a href="http://instagram.com/tatteredamerican/?hl=en/" title="facebook">Instagram</a>
+                        <a href="https://www.facebook.com/TatteredAmericanDentRemoval/" title="facebook">Facebook</a>
                     </div>
                 </div>
                 <div className="footer-link-wrapper">

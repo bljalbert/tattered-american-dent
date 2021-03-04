@@ -8,7 +8,7 @@ function HeroSectionAbout() {
     <div className='hero-container-about'>
       <img src='../img/bg1.jpg' />
       <h1>About US</h1>
-      <div className='hero-btns'>
+      {/* <div className='hero-btns'>
         <Button
           className='btns'
           buttonStyle='btn--outline'
@@ -16,7 +16,7 @@ function HeroSectionAbout() {
         >
           CLICK HERE TO SCHEDULE AN APPOINTMENT
         </Button>
-      </div>
+      </div> */}
     </div>
   );
 }

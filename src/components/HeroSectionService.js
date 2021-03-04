@@ -7,7 +7,7 @@ function HeroSectionService() {
   return (
     <div className='hero-container-service'>
       <h1>Services and Rates</h1>
-      <div className='hero-btns'>
+      {/* <div className='hero-btns'>
         <Button
           className='btns'
           buttonStyle='btn--outline'
@@ -15,7 +15,7 @@ function HeroSectionService() {
         >
           CLICK HERE TO SCHEDULE AN APPOINTMENT
         </Button>
-      </div>
+      </div> */}
     </div>
   );
 }

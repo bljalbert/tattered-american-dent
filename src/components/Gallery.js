@@ -5,7 +5,7 @@ import './Gallery.css';
 function Gallery() {
     return (
         <div className='gallery'>
-            <h1>Check out some of our before and after pictures!</h1>
+            <h1>Here is a gallery of some of our work</h1>
             <div className="gallery__container"></div>
             <div className="gallery__wrapper"></div>
             <ul className="gallery__items">
