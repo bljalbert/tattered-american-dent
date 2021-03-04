@@ -8,8 +8,7 @@ function Galleryitem(props) {
                 <Link className='gallery__item__link' to={props.path}>
                     <div className='gallery__item__pic-wrap'>
                         <img src={props.src} alt='Before/After' className='gallery__item__img'/>
-                    </div>
-                    
+                    </div>                   
                 </Link>
                 <h5 className='gallery__item__text'>{props.text}</h5>
             </li>
