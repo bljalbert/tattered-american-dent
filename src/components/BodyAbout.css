@@ -1,5 +1,5 @@
 .about {
-  padding: 8rem 0 8rem 0;
+  padding: 8rem 4rem 8rem 4rem;
   background: rgb(66, 64, 64);
 }
 
@@ -20,6 +20,7 @@
 
 .about__container__img {
   display: flex;
+  margin-top: 80px;
   float: right;
   width: 40%;
 }
