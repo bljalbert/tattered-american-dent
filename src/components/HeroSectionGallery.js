@@ -7,7 +7,7 @@ function HeroSectionGallery() {
   return (
     <div className='hero-container-gallery'>
       
-      {/* <div className='hero-btns'>
+      <div className='hero-btns'>
         <Button
           className='btns'
           buttonStyle='btn--outline'
@@ -15,7 +15,7 @@ function HeroSectionGallery() {
         >
           CLICK HERE TO SCHEDULE AN APPOINTMENT
         </Button>
-      </div> */}
+      </div>
     </div>
   );
 }
