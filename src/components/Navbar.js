@@ -48,9 +48,14 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link to='/services' className='nav-links' onClick={closeMobileMenu}>
-                Services/Rates
+                Services
               </Link>
             </li>
+            {/* <li className='nav-item'>
+              <Link to='/Rates' className='nav-links' onClick={closeMobileMenu}>
+                Rates
+              </Link>
+            </li> */}
             <li className='nav-item'>
               <Link to='/beforeafter' className='nav-links' onClick={closeMobileMenu}>
                 Before/After

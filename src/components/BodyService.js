@@ -11,7 +11,7 @@ function BodyService() {
                                        
                     <p>We repair small dents, door dings, and hail damage without needing to repaint your car, maintaining the value. 
                         Our process is FASTER and LESS EXPENSIVE. We go behind the metal and massage the dent out. Most door dings can 
-                        be repaired for $75, and in about 45 minutes. 
+                        be repaired for a fraction of the cost of a conventional repair in as little as 45 minutes. 
                     </p>
                 <img className='body__img md-6' src='/images/shelby.jpg' />
                 <br />

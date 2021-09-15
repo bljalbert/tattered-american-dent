@@ -1,5 +1,6 @@
 {
   "name": "tattered-american-dent-removal",
+  "homepage": "http://tatteredamericandentremoval.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

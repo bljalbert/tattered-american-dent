@@ -9,13 +9,13 @@ function HeroSectionAbout() {
       <img src='../img/bg1.jpg' />
       <h1>About US</h1>
       <div className='hero-btns'>
-        <Button
+        {/* <Button
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
           CLICK HERE TO SCHEDULE AN APPOINTMENT
-        </Button>
+        </Button> */}
       </div>
     </div>
   );

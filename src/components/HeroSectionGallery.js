@@ -8,13 +8,13 @@ function HeroSectionGallery() {
     <div className='hero-container-gallery'>
       
       <div className='hero-btns'>
-        <Button
+        {/* <Button
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
           CLICK HERE TO SCHEDULE AN APPOINTMENT
-        </Button>
+        </Button> */}
       </div>
     </div>
   );

@@ -3,7 +3,5 @@
         "javascript": "javascriptreact",
         "vue-html": "html"
     },
-    "workbench.editorAssociations": [
-    
-    ]
+    "workbench.editorAssociations": {}
 }

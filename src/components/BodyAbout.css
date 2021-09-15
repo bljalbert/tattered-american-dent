@@ -1,21 +1,22 @@
 .about {
-  padding: 8rem 4rem 8rem 4rem;
+  padding: 4rem;
   background: rgb(66, 64, 64);
 }
 
-.about__container {  
-  margin-top: 300px;
-  margin-bottom: 200px;
-  color: #fff;
-  font-size: 20px;
-  font-family: "open Sans", sans-serif;
-}
-
-.about__container h1, h3 {
-  margin-bottom: 40px;
+h1, h2, h3 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 5px;
   text-align: center;
   color: #fff;
   font-family: "Lobster", cursive;
+}
+
+.about__container {  
+  margin-top: 30px;
+  color: #fff;
+  font-size: 20px;
+  font-family: "open Sans", sans-serif;
 }
 
 .about__container__img {

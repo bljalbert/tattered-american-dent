@@ -9,23 +9,26 @@ function BodyAbout() {
                 <h1>Our Story</h1>
                 <img src="/images/mattdent.jpg" className="about__container__img" alt="Matt working dent" />
                 <h3>Matthew Jalbert (founder)</h3> 
-                <p className="about__container__description">
-                    started his Paintless Dent Repair (PDR) career in 2010. His eye for detail helped him quickly rise in the ranks amongst his peer in 
-                    both quality and performance while working with Shops and Dealerships in the area. This was fostered by his 14 years of experience in automotive restoration 
-                    and 15 years of engine and drive line experience. He also has 12 years of paint and body experience and retains a certification in the field. He has been in management for
-                    10 years and a business owner for 4 years.
-                    
-                    His professional attitude and strong work ethic helped him maintain and land accounts that are still active today. <br/><br/> He has created a loyal customer base 
-                    through dependable and high quality work.  His goal is to help change the PDR industry’s perspective and respect in the local area.
-                </p>
-                <p className="about__container__description">
-                    Tattered American Dent Removal is a family owned and operated company servicing the Tallahassee and surrounding areas.  We try to treat every customer as if they are 
-                    part of the family.  There are other PDR companies in the area with similar services, but our service and professionalism are second to none. Our personalities and
-                     desire to please the customer is one of the first things you will notice.  Come be a part of the family!
-                </p>
+                <div className="about__container__description">
+                    <p>
+                        started his Paintless Dent Repair (PDR) career in 2010. His eye for detail helped him quickly rise in the ranks amongst his peer in 
+                        both quality and performance while working with Shops and Dealerships in the area. This was fostered by his 14 years of experience in automotive restoration 
+                        and 15 years of engine and drive line experience. He also has 12 years of paint and body experience and retains a certification in the field. He has been in management for
+                        10 years and a business owner for 4 years.
+                        
+                        His professional attitude and strong work ethic helped him maintain and land accounts that are still active today. <br/><br/> He has created a loyal customer base 
+                        through dependable and high quality work.  His goal is to help change the PDR industry’s perspective and respect in the local area.
+                    </p>
+                </div>
+                <div className="about__container__description">    
+                    <p>
+                        Tattered American Dent Removal is a family owned and operated company servicing the Tallahassee and surrounding areas.  We try to treat every customer as if they are 
+                        part of the family.  There are other PDR companies in the area with similar services, but our service and professionalism are second to none. Our personalities and
+                        desire to please the customer is one of the first things you will notice.  Come be a part of the family!
+                    </p>
+                </div>
                 <br/><br/>
             </div>
-            
         </div>
     );
 }

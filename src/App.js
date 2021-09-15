@@ -6,10 +6,12 @@ import Home from './components/pages/Home';
 import About from './components/pages/About';
 import BeforeAfter from './components/pages/BeforeAfter';
 import Services from './components/pages/Services';
+import Rates from './components/pages/Ratesold';
 import Login from './components/pages/Login';
 
 
 function App() {
+  
   return (
     <>
     <Router>
@@ -19,6 +21,7 @@ function App() {
         <Route path='/about' component={About} />
         <Route path='/beforeafter' component={BeforeAfter} />
         <Route path='/services' component={Services} />
+        {/* <Route path='/Rates' component={Rates} /> */}
         <Route path='/login' component={Login} />
       </Switch>
     </Router>
